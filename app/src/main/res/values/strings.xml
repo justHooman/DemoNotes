@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="note_list_label">Notes</string>
+    <string name="note_details_label">Detail</string>
+    <string name="add_note_label">Add New Note</string>
+    <string name="edit_note_label">Edit Note</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="add_note_title_hint">Add note title here</string>
+    <string name="add_note_content_hint">Add note content here</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="confirm_dialog_title">Are you sure?</string>
+    <string name="confirm_to_delete_note">Press confirm to delete this note</string>
+    <string name="empty_note_message">No note found, click add icon to add new one</string>
+</resources>

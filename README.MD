@@ -11,3 +11,8 @@ provides below functions:
 - Clean code with MVVM architecture
 - Core business logics are unit tested.
 - All functions work correctly
+
+# Implement
+
+- libs: Room for DB, Hilt for DI, PagingV3 for Pager, Mockito for UT, Jetpack Compose for UI, Navigation
+- reuse db.Note as the entity for whole app.
